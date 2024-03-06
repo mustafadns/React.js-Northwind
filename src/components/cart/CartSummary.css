@@ -1,0 +1,11 @@
+.quantity_number {
+    position: relative;
+    left: 1rem;
+    font-size: 0.9rem;
+}
+
+.btn_main {
+    font-size: 0.9rem;
+    position: relative;
+    left: -0.7rem;
+}

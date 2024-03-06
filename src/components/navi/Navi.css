@@ -1,0 +1,5 @@
+.navbar-expand .navbar-collapse{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
